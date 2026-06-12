@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://engineering-plastic-in.pages.dev/sitemap.xml
